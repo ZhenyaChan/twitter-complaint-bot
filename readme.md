@@ -2,7 +2,7 @@
 
 ## Description
 - Implementation of the Automated Complaint Bot using latest technologies of <strong>Python, Selenium, and time libraries</strong>.
-- The Automated Bot complains about internet speed by posting a complaint about the internet provider.
+- The Automated Bot complains about internet speed by posting a complaint about the internet provider whenever the internet speed is below the agreement performance.
 
 ## How to Set Up the Project
 1. Create an empty folder.
